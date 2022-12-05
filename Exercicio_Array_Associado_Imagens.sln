@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_Array_Associado_Imagens", "Exercicio_Array_Associado_Imagens\Exercicio_Array_Associado_Imagens.csproj", "{E2CB7213-D9D7-4E56-B7B6-E85A6BB64D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2CB7213-D9D7-4E56-B7B6-E85A6BB64D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CB7213-D9D7-4E56-B7B6-E85A6BB64D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CB7213-D9D7-4E56-B7B6-E85A6BB64D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CB7213-D9D7-4E56-B7B6-E85A6BB64D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB87D689-A249-4336-A546-601FB8D033F4}
+	EndGlobalSection
+EndGlobal
